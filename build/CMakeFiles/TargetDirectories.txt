@@ -1,0 +1,3 @@
+/Users/sickk/Desktop/Programming/Projects/raytracing-cpp/build/CMakeFiles/MyProject.dir
+/Users/sickk/Desktop/Programming/Projects/raytracing-cpp/build/CMakeFiles/edit_cache.dir
+/Users/sickk/Desktop/Programming/Projects/raytracing-cpp/build/CMakeFiles/rebuild_cache.dir

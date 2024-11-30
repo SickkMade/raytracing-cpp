@@ -242,6 +242,7 @@ CMakeFiles/MyProject.dir/main.cpp.o: /Users/sickk/Desktop/Programming/Projects/r
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cerrno \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/chrono \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/climits \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cmath \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/compare \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/concepts \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstddef \
@@ -266,6 +267,7 @@ CMakeFiles/MyProject.dir/main.cpp.o: /Users/sickk/Desktop/Programming/Projects/r
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/locale \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/locale.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/math.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/memory \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/mutex \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/new \
@@ -304,6 +306,7 @@ CMakeFiles/MyProject.dir/main.cpp.o: /Users/sickk/Desktop/Programming/Projects/r
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/signal.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/malloc/_malloc.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/math.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/nl_types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/pthread.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/pthread/pthread_impl.h \
@@ -416,8 +419,12 @@ CMakeFiles/MyProject.dir/main.cpp.o: /Users/sickk/Desktop/Programming/Projects/r
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/limits.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stdarg.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stddef.h \
-  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stdint.h
+  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stdint.h \
+  /Users/sickk/Desktop/Programming/Projects/raytracing-cpp/color.h \
+  /Users/sickk/Desktop/Programming/Projects/raytracing-cpp/vec3.h
 
+
+/Users/sickk/Desktop/Programming/Projects/raytracing-cpp/color.h:
 
 /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stddef.h:
 
@@ -430,6 +437,8 @@ CMakeFiles/MyProject.dir/main.cpp.o: /Users/sickk/Desktop/Programming/Projects/r
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_wchar.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_string.h:
+
+/Users/sickk/Desktop/Programming/Projects/raytracing-cpp/vec3.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_stdlib.h:
 
@@ -587,6 +596,8 @@ CMakeFiles/MyProject.dir/main.cpp.o: /Users/sickk/Desktop/Programming/Projects/r
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/nl_types.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/math.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/signal.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/machine/_types.h:
@@ -604,10 +615,6 @@ CMakeFiles/MyProject.dir/main.cpp.o: /Users/sickk/Desktop/Programming/Projects/r
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/compare:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/type_traits:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/generate.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/signal.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/set_intersection.h:
 
@@ -686,6 +693,8 @@ CMakeFiles/MyProject.dir/main.cpp.o: /Users/sickk/Desktop/Programming/Projects/r
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__nullptr:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cstdint:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cmath:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/climits:
 
@@ -808,6 +817,10 @@ CMakeFiles/MyProject.dir/main.cpp.o: /Users/sickk/Desktop/Programming/Projects/r
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/max.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__iterator/readable_traits.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/signal.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__algorithm/generate.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/unwrap_ref.h:
 
@@ -1080,6 +1093,8 @@ CMakeFiles/MyProject.dir/main.cpp.o: /Users/sickk/Desktop/Programming/Projects/r
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/wctype.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/pointer_to_binary_function.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/math.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__bsd_locale_defaults.h:
 

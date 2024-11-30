@@ -422,5 +422,6 @@ CMakeFiles/MyProject.dir/main.cpp.o
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stddef.h
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stdint.h
  /Users/sickk/Desktop/Programming/Projects/raytracing-cpp/color.h
+ /Users/sickk/Desktop/Programming/Projects/raytracing-cpp/ray.h
  /Users/sickk/Desktop/Programming/Projects/raytracing-cpp/vec3.h
 

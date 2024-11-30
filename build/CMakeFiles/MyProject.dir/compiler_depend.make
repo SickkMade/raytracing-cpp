@@ -421,6 +421,7 @@ CMakeFiles/MyProject.dir/main.cpp.o: /Users/sickk/Desktop/Programming/Projects/r
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stddef.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stdint.h \
   /Users/sickk/Desktop/Programming/Projects/raytracing-cpp/color.h \
+  /Users/sickk/Desktop/Programming/Projects/raytracing-cpp/ray.h \
   /Users/sickk/Desktop/Programming/Projects/raytracing-cpp/vec3.h
 
 
@@ -1245,6 +1246,8 @@ CMakeFiles/MyProject.dir/main.cpp.o: /Users/sickk/Desktop/Programming/Projects/r
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/runetype.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_locale.h:
+
+/Users/sickk/Desktop/Programming/Projects/raytracing-cpp/ray.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/Availability.h:
 
